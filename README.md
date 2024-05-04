@@ -7,7 +7,7 @@ Suno中文站、AI写歌、AI音乐创作，音乐界的ChatGPT，30秒内创作
 
 #### AI导航集合站点地址
 http://ai.dzwlai.com/ 
-
+![AI导航集合站点地址](https://gitee.com/happyangellxq520/ai-bot/blob/master/image.png)
 
 
 #### 导航站包含但不仅仅...
